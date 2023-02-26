@@ -1,0 +1,84 @@
+@media screen and (max-width:768px){
+    .border{
+        border: 7px solid #555555 !important;
+        border-radius: 5px;
+    }
+    .image-border{
+        position: relative;
+        top: 0px;
+        left: 0px;
+        overflow: hidden;
+    }
+    .container-contact {
+        width: 100% !important;
+    }
+    .about-container{
+        width: 100% !important;
+    }
+    .container-portfolio{
+        width: 100% !important;
+    }
+    .nav-link{
+        justify-content: center !important;
+        display: flex;
+    }
+.feedback- caption p{
+    width: 50% !important;
+}
+
+
+
+    .color{
+        width: 300px;
+        height: 300px;
+        position: absolute;
+        top: -150px;
+        left: -150px;
+        background-color: #FF305B;
+        transform: rotate(45deg);
+        
+    }
+    
+    .feedback-img{
+        transform: translate(-15%);
+    }
+    .feed-con{
+        background-color: #F1F1F1 !important ;
+    }
+    
+    .btn-car{
+        background-color: #FF305B !important;
+        padding-top: 4px  !important;
+        padding-right: 12px !important;
+        padding-bottom: 4px !important;
+        padding-left: 12px !important;
+        height: 5px !important;
+        width: 5px !important; 
+        border-radius: 50% !important;
+    
+    }
+    
+    .btn-car2{
+       
+        background-color: #F1F1F1 !important ;
+    
+        padding-top: 4px  !important;
+        padding-right: 12px !important;
+        padding-bottom: 4px !important;
+        padding-left: 12px !important;
+        height: 5px !important;
+        width: 5px !important; 
+        border-radius: 50% !important;
+    }
+    .rating .fa-solid{
+        color: #f1c30d;
+    }
+    .fa-regular{
+        color: #f1c30d;
+    }
+     .fa-map-marker{
+        color: #f1c30d !important;
+    }
+    
+
+}
